@@ -1,0 +1,15 @@
+jiance\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/queue.c
+jiance\queue.o: E:\keil\ARM\ARMCC\Bin\..\include\stdlib.h
+jiance\queue.o: E:\keil\ARM\ARMCC\Bin\..\include\string.h
+jiance\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+jiance\queue.o: E:\keil\ARM\ARMCC\Bin\..\include\stddef.h
+jiance\queue.o: E:\keil\ARM\ARMCC\Bin\..\include\stdint.h
+jiance\queue.o: ../Core/Inc/FreeRTOSConfig.h
+jiance\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+jiance\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+jiance\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+jiance\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+jiance\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+jiance\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+jiance\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+jiance\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h

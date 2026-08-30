@@ -1,0 +1,12 @@
+jiance\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/port.c
+jiance\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+jiance\port.o: E:\keil\ARM\ARMCC\Bin\..\include\stddef.h
+jiance\port.o: E:\keil\ARM\ARMCC\Bin\..\include\stdint.h
+jiance\port.o: ../Core/Inc/FreeRTOSConfig.h
+jiance\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+jiance\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+jiance\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+jiance\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+jiance\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+jiance\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+jiance\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h

@@ -1,0 +1,13 @@
+jiance\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c
+jiance\heap_4.o: E:\keil\ARM\ARMCC\Bin\..\include\stdlib.h
+jiance\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+jiance\heap_4.o: E:\keil\ARM\ARMCC\Bin\..\include\stddef.h
+jiance\heap_4.o: E:\keil\ARM\ARMCC\Bin\..\include\stdint.h
+jiance\heap_4.o: ../Core/Inc/FreeRTOSConfig.h
+jiance\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+jiance\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+jiance\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+jiance\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+jiance\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+jiance\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+jiance\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h

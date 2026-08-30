@@ -1,0 +1,16 @@
+jiance\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/tasks.c
+jiance\tasks.o: E:\keil\ARM\ARMCC\Bin\..\include\stdlib.h
+jiance\tasks.o: E:\keil\ARM\ARMCC\Bin\..\include\string.h
+jiance\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+jiance\tasks.o: E:\keil\ARM\ARMCC\Bin\..\include\stddef.h
+jiance\tasks.o: E:\keil\ARM\ARMCC\Bin\..\include\stdint.h
+jiance\tasks.o: ../Core/Inc/FreeRTOSConfig.h
+jiance\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+jiance\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+jiance\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+jiance\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+jiance\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+jiance\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+jiance\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+jiance\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h
+jiance\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/stack_macros.h
